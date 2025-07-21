@@ -1,5 +1,5 @@
 # Set the base image
-FROM python:3.10.6-slim-bullseye
+FROM python:3.10.6-slim-bullseye 
 
 # Install required system packages
 RUN apt-get update && \
