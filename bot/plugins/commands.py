@@ -11,10 +11,10 @@ async def start(client, message):
     
     # Create the inline keyboard markup
     keyboard = InlineKeyboardMarkup([[InlineKeyboardButton("Request Group", url=f"t.me/born4movies7")],
-                                    [InlineKeyboardButton("Backup Channel", url=f"t.me/b4backupchnanel")]])
+                                    [InlineKeyboardButton("Backup Channel", url=f"t.me/born4movies7")]])
     
     await message.reply_text(
-        "ɪᴛ ᴄᴀɴ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛʜ ɴᴇᴡ ᴀɴᴅ ᴘᴇɴᴅɪɴɢ ʀᴇQᴜᴇꜱᴛ. ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴘᴇɴᴅɪɴɢ ʀᴇQᴜᴇꜱᴛ/ɢʀᴏᴜᴘ\n\nᴄᴏɴᴛᴀᴄᴛ ᴜꜱ @Botadmin44",
+        "ɪᴛ ᴄᴀɴ ᴀᴄᴄᴇᴘᴛ ʙᴏᴛʜ ɴᴇᴡ ᴀɴᴅ ᴘᴇɴᴅɪɴɢ ʀᴇQᴜᴇꜱᴛ. ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴀᴄᴄᴇᴘᴛ ᴘᴇɴᴅɪɴɢ ʀᴇQᴜᴇꜱᴛ/ɢʀᴏᴜᴘ\n",
         reply_markup=keyboard
     )
 
