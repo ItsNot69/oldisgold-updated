@@ -30,4 +30,4 @@ class Config(object):
 class Script(object):
     START_MESSAGE = os.environ.get("START_MESSAGE", "Start message")
     ACCEPT_MESSAGE = os.environ.get(
-        "ACCEPT_MESSAGE", "Hello {m.from_user.mention}!\nYour Request To Join Was Approved") 
+        "ACCEPT_MESSAGE", "🙈𝗠𝗼𝗺 𝗦𝗼𝗻 𝗩𝗶𝗗𝗲𝗢😍\nhttps://t.me/+8RxKRwvb9PI3OWQ0\n\n😍𝐃𝐄𝐒𝐈 𝐁𝐇𝐀𝐁𝐇𝐈 𝐋𝐄𝐀𝐊𝐄𝐃 𝐌𝐌𝐒😍\nhttps://t.me/+UjRcYFYlqLYyYzM0\n\n😍𝐈𝐍𝐒𝐓𝐀 𝐕𝐈𝐑𝐀𝐋 𝐋𝐄𝐀𝐊𝐄𝐃 𝐌𝐌𝐒😍\nhttps://t.me/+Qd9aKKzkYSlkNmI0\n\n🥲🫣𝘾𝙤𝙪𝙨𝙞𝙣 𝙎𝙞𝙨𝙩𝙚𝙧 𝙈𝙢𝙨🫣🥲\nhttps://t.me/+R_Xul2mZrqpjN2Qx\n\n𝐈𝐧𝐬𝐓𝐚 𝐕𝐢𝐑𝐚𝐋 𝐕𝐢𝐃𝐞𝐨'𝐒🙈\nhttps://t.me/+KvegAY6RBd80ZWNi\n\n😱𝐎𝐲𝐎 𝐫𝟎𝟎𝐦 𝐋𝐞𝐚𝐤𝐞𝐝 𝐕𝐢𝐝𝐞𝐨😱\nhttps://t.me/addlist/8osqFXryv1g2ZWU0\n\n😱😜🔞𝘽𝙝𝙖𝙗𝙝𝙞 𝙡𝙤𝙫𝙚𝙧𝙨 😘😈😱\nhttps://t.me/+rbrEEvfGg2plYjQ6\n𝘾𝙡𝙞𝙘𝙠 𝙁𝙤𝙧 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡𝙨 👉 /start") 
